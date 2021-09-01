@@ -1,0 +1,26 @@
+<nav class="navbar navbar-dark navbar-expand-lg fixed-top" id="mainNav" style="opacity: 1;background-color: rgb(270, 270, 270);">
+    <div class="container">
+        <!--<li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded ="false" style="color: rgb(255,165,85);">ADMIN</a>
+            <div class="dropdown-menu">
+                <a class="dropdown-item" routerLink="admin/project/new">Registrar Proyecto</a>
+                <a class="dropdown-item" routerLink="admin/apartment/new">Registrar Departamento</a>
+            </div>
+        </li>-->
+        <a class="navbar-brand" href="#">
+            <img src="favicon.ico" width="30" height="50">
+          </a>
+        <a class="navbar-brand js-scroll-trigger" href="#page-top" style="color: rgb(10, 10, 10);">stradivarius</a>
+        <button class="navbar-toggler navbar-toggler-right" data-toggle="collapse" data-target="#navbarResponsive" type="button" data-toogle="collapse"aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation" style="background-color: rgb(10, 10, 10);"><i class="fa fa-bars" style="color: rgba(10, 10, 10, 0);"></i></button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="nav navbar-nav ml-auto text-uppercase">
+                <li class="nav-item" role="presentation"><a class="nav-link active js-scroll-trigger" routerlink="registro" style="color: rgb(10,10,10);">Registro</a></li>
+                <li class="nav-item" role="presentation"><a class="nav-link active js-scroll-trigger" routerlink="cesta" style="color: rgb(10,10,10);">Cesta</a></li>
+            </ul>
+        <a class="btn btn-primary text-black-50 border-dark" role="button" href="userLogin.html" style="font-family: Montserrat, sans-serif;font-weight: normal;background-color: rgb(255,165,85);border:none;">Acceder</a>
+        </div>
+    </div>
+</nav>
+<section style="min-height:600px; padding-top:0px; padding-bottom:0px; ">
+    <router-outlet></router-outlet>
+</section>
