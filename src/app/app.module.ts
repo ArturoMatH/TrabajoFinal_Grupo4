@@ -9,6 +9,8 @@ import { RegistroComponent } from './pages/registro/registro.component';
 import { CestaComponent } from './pages/cesta/cesta.component';
 import { ContactusComponent } from './pages/contactus/contactus.component';
 import { AboutusComponent } from './pages/aboutus/aboutus.component';
+import { CollectionComponent } from './pages/collection/collection.component';
+import { CategoriaComponent } from './pages/categoria/categoria.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +19,9 @@ import { AboutusComponent } from './pages/aboutus/aboutus.component';
     RegistroComponent,
     CestaComponent,
     ContactusComponent,
-    AboutusComponent
+    AboutusComponent,
+    CollectionComponent,
+    CategoriaComponent
   ],
   imports: [
     BrowserModule,

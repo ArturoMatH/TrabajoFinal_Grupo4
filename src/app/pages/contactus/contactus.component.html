@@ -1,1 +1,6 @@
-<p>contactus works!</p>
+<h3>
+    {{ header }}: {{ description | uppercase }}
+  </h3>
+  <p [style.color]="counterStyleColor">You have <mark
+          class="{{ counterClass }}">{{ numberOfContacts }}</mark>
+    contacts right now.</p>
