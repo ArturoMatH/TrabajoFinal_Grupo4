@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Abrigos",
+            "image": "assets/img/Collection/proyect-Abrigos.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Cazadoras",
+            "image": "assets/img/Collection/proyect-Cazadoras.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Camisetas",
+            "image": "assets/img/Collection/proyect-Camisetas.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Pantalones",
+            "image": "assets/img/Collection/proyect-Pantalones.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Vestidos",
+            "image": "assets/img/Collection/proyect-Vestidos.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Accesorios",
+            "image": "assets/img/Collection/proyect-Accesorios.jpg"
+        }
+    ]
+}

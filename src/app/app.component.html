@@ -1,26 +1,33 @@
-<nav class="navbar navbar-dark navbar-expand-lg fixed-top" id="mainNav" style="opacity: 0.9;background-color: rgb(270, 270, 270) ; padding: 1px 0px;">
-    <div class="container">
-        <!--<li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded ="false" style="color: rgb(255,165,85);">ADMIN</a>
-            <div class="dropdown-menu">
-                <a class="dropdown-item" routerLink="admin/project/new">Registrar Proyecto</a>
-                <a class="dropdown-item" routerLink="admin/apartment/new">Registrar Departamento</a>
-            </div>
-        </li>-->
-        <a class="navbar-brand" routerLink="home"><img src="favicon.ico" width="30" height="50"></a>
-        <a class="navbar-brand js-scroll-trigger" routerLink="home" style="color: rgb(10, 10, 10);font-family: Georgia; font-weight: bold;text-align:center;">stradivarius</a>
-        <button class="navbar-toggler navbar-toggler-right" data-toggle="collapse" data-target="#navbarResponsive" type="button" data-toogle="collapse"aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation" style="background-color: rgb(10, 10, 10);"><i class="fa fa-bars" style="color: rgba(10, 10, 10, 0);"></i></button>
-        <div class="collapse navbar-collapse" id="navbarResponsive">
-            <ul class="nav navbar-nav ml-auto text-uppercase">
-                <li class="nav-item" role="presentation"><a class="nav-link active js-scroll-trigger" routerLink="aboutus" style="color: rgb(10,10,10);">Aboutus</a></li>
-                <li class="nav-item" role="presentation"><a class="nav-link active js-scroll-trigger" routerLink="contacus" style="color: rgb(10,10,10);">Contacus</a></li>
-                <li class="nav-item" role="presentation"><a class="nav-link active js-scroll-trigger" routerLink="registro" style="color: rgb(10,10,10);">Registro</a></li>
-                <li class="nav-item" role="presentation"><a class="nav-link active js-scroll-trigger" routerLink="cesta" style="color: rgb(10,10,10);">Cesta</a></li>
-            </ul>
-            <a class="btn btn-primary text-black-50 border-dark" role="button" href="userLogin.html" style="font-family: Montserrat, sans-serif;font-weight: normal;background-color: rgb(255,165,85);border:none;">Acceder</a>
-        </div>
+<nav class="navbar navbar-dark navbar-expand-lg fixed-top" id="mainNav" style="opacity: 0.9;background-color: rgb(270,270,270);padding: 1px 0px;">
+  <div class="container">
+    <a class="navbar-brand" routerLink="home"><img src="favicon.ico" width="30" height="50"></a>
+    <a class="navbar-brand js-scroll-trigger" routerLink="home" style="color: rgb(10,10,10);font-family: Brush Script MT; font-weight: bold;text-align:center;">Stradivarius</a>
+    <button class="navbar-toggler navbar-toggler-right" data-toggle="collapse" data-target="#navbarResponsive" type="button" data-toogle="collapse" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation" style="background-color: rgb(255,165,85);"><i class="fa fa-bars" style="color: rgba(255,255,255,0.75);padding: 1px 0px;"></i></button>
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+      <ul class="nav navbar-nav ml-auto text-uppercase">
+        <!--
+        <li class="nav-item" role="presentation"><a class="nav-link active js-scroll-trigger" href="#portfolio" style="color: rgb(255,165,85);">PROYECTOS</a></li>
+        <li class="nav-item" role="presentation"><a class="nav-link active js-scroll-trigger" href="#services" style="color: rgb(255,165,85);">DEPARTAMENTOs</a></li>
+        -->
+        <li class="nav-item" role="presentation"><a class="nav-link active js-scroll-trigger" routerLink="aboutus" style="color: rgb(10,10,10);">Aboutus</a></li>
+        <li class="nav-item" role="presentation"><a class="nav-link active js-scroll-trigger" routerLink="contactus" style="color: rgb(10,10,10);">Contactus</a></li>
+        <li class="nav-item" role="presentation"><a class="nav-link active js-scroll-trigger" routerLink="registro" style="color: rgb(10,10,10);">Registro</a></li>
+        <li class="nav-item" role="presentation"><a class="nav-link active js-scroll-trigger" routerLink="cesta" style="color: rgb(10,10,10);">Cesta</a></li>
+    
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false" style="color: rgb(10,10,10);">ADMIN</a>
+          <div class="dropdown-menu">
+            <a class="dropdown-item" routerLink="admin/collection/new">Registrar Collecion</a>
+            <a class="dropdown-item" routerLink="admin/producto/new">Registrar Producto</a>
+          </div>
+        </li>
+      </ul>
+      
+      <a class="btn btn-secondary text-white-00 border-dark" role="button" routerLink="sesion" style="font-family: Montserrat, sans-serif;font-weight: normal;background-color: rgb(48, 47, 47);border:none;">Iniciar Sesión</a>
+      
     </div>
+  </div>
 </nav>
-<section style="min-height:600px; padding-top:0px; padding-bottom:0px; ">
-    <router-outlet></router-outlet>
+<section style="min-height: 600px; padding-top: 0px; padding-bottom: 0px;">
+  <router-outlet></router-outlet>
 </section>

@@ -1,9 +1,10 @@
-<header class="masthead" style="background-image: url(&quot;assets/img/backgrounds/header-bg.jpg&quot;); ">
+<header class="masthead" style="background-image: url(&quot;assets/img/backgrounds/header-bg.jpg&quot;);">
     <div class="container">
         <div class="intro-text">
-            <div class="intro-lead-in"><span style="-webkit-text-stroke: 1px rgba(120,120,120,0.50);">NEW IN</span></div>
+            <div class="intro-lead-in"><span style="-webkit-text-stroke: 1px rgba(120,120,120,0.50);">NEW COLLECTION </span></div>
             <div class="intro-heading text-uppercase"><span style="-webkit-text-stroke: 1px rgba(120,120,120,0.50);">&nbsp;</span></div>
-            <a class="btn btn-primary border-dark btn-xl text-uppercase js-scroll-trigger" role="button" href="#portfolio" style="background-color: rgb(255,165,85);border:none;">VER TODO</a></div>
+            <a class="btn btn-primary border-dark btn-xl text-uppercase js-scroll-trigger" role="button" href="#portfolio" style="background-color: rgb(31, 31, 31);border:none;">VER TODO</a>
+        </div>
     </div>
 </header>
 <section id="portfolio" class="bg-light" style="padding: 75px 0px;">
@@ -14,58 +15,17 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-sm-6 col-md-4 portfolio-item">
-                <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
+            <div *ngFor="let p of collections" class="col-sm-6 col-md-4 portfolio-item">
+                <a routerLink="/collection/{{ p.id }}" class="portfolio-link" data-toggle="modal">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content"><i class="fa fa-plus fa-3x"></i></div>
-                    </div><img class="img-fluid" src="assets/img/proyects/proyect-Abrigos.jpg"></a>
+                    </div>
+                    <img class="img-fluid" src="{{ p.image }}">
+                </a>
                 <div class="portfolio-caption">
-                    <h4>Abrigos</h4>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-4 portfolio-item">
-                <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
-                    <div class="portfolio-hover">
-                        <div class="portfolio-hover-content"><i class="fa fa-plus fa-3x"></i></div>
-                    </div><img class="img-fluid" src="assets/img/proyects/proyect-Pantalones.jpg"></a>
-                <div class="portfolio-caption">
-                    <h4>Pantalones</h4>                  
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-4 portfolio-item">
-                <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
-                    <div class="portfolio-hover">
-                        <div class="portfolio-hover-content"><i class="fa fa-plus fa-3x"></i></div>
-                    </div><img class="img-fluid" src="assets/img/proyects/proyect-Cazadoras.jpg"></a>
-                <div class="portfolio-caption">
-                    <h4>Cazadoras</h4>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-4 portfolio-item">
-                <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
-                    <div class="portfolio-hover">
-                        <div class="portfolio-hover-content"><i class="fa fa-plus fa-3x"></i></div>
-                    </div><img class="img-fluid" src="assets/img/proyects/proyect-Camisetas.jpg"></a>
-                <div class="portfolio-caption">
-                    <h4>Camisetas y Tops</h4>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-4 portfolio-item">
-                <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
-                    <div class="portfolio-hover">
-                        <div class="portfolio-hover-content"><i class="fa fa-plus fa-3x"></i></div>
-                    </div><img class="img-fluid img-fluid" src="assets/img/proyects/proyect-Vestidos.jpg"></a>
-                <div class="portfolio-caption">
-                    <h4>Vestidos</h4>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-4 portfolio-item">
-                <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
-                    <div class="portfolio-hover">
-                        <div class="portfolio-hover-content"><i class="fa fa-plus fa-3x"></i></div>
-                    </div><img class="img-fluid" src="assets/img/proyects/proyect-Accesorios.jpg"></a>
-                <div class="portfolio-caption">
-                    <h4>Accesorios</h4>
+                    <h4>{{p.name}}</h4>
+                    <p class="text-muted"><strong><em>{{ p.price}}</em><br></strong></p>
+                    <p class="text-muted">{{ p.address}}</p>
                 </div>
             </div>
         </div>

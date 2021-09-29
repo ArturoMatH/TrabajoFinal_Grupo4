@@ -1,0 +1,689 @@
+{
+    "data":[
+        {
+            "collectionId": 1,
+            "id": 1,
+            "name": "Abrigo trench Largo Fluido",
+            "price": "S/129",
+            "image": [
+                {
+                    "path": "assets/img/Producto/Abrigo Trench largo fluido.jpg" 
+                },
+                {
+                    "item": "Abrigo trench Largo Fluido",
+                    "description": "Trench largo fluido cruzado con cierre de botones, cuello solapa, de manga caida y larga. Bolsillos delanteros de vivo. ", 
+                    "item2": "MATERIALES",
+                    "materiales": "EXTERIOR: 59% Lana, 41% Algodón.FORRO: 100% Viscosa ",
+                    "item3": "CUIDADOS ",
+                    "cuidados": "No lavar, no usar lejía, no usar secadora, planchar máximo 110°C, limpieza en seco. " 
+                }
+            ]
+        },
+        {
+            "collectionId": 1,
+            "id": 2,
+            "name": "Abrigo trench básico",
+            "price": "S/129",
+            "image": [
+                {
+                    "path": "assets/img/Producto/Abrigo Trench básico.jpg"                   
+                },
+                {
+                    "item": "Abrigo trench básico",
+                    "description": "Trench largo fluido cruzado con cierre de botones, cuello solapa, de manga caida y larga. Bolsillos delanteros de vivo. ", 
+                    "item2": "MATERIALES",
+                    "materiales": "EXTERIOR: 59% Lana, 41% Algodón.FORRO: 100% Viscosa ",
+                    "item3": "CUIDADOS ",
+                    "cuidados": "No lavar, no usar lejía, no usar secadora, planchar máximo 110°C, limpieza en seco. " 
+                }
+            ]
+        },
+        {
+            "collectionId": 1,
+            "id": 3,
+            "name": "Abrigo básico",
+            "price": "S/129",
+            "image": [
+                {
+                    "path": "assets/img/Producto/Abrigo básico.jpg"
+                },
+                {
+                    "item": "Abrigo básico",
+                    "description": "Trench largo fluido cruzado con cierre de botones, cuello solapa, de manga caida y larga. Bolsillos delanteros de vivo. ", 
+                    "item2": "MATERIALES",
+                    "materiales": "EXTERIOR: 59% Lana, 41% Algodón.FORRO: 100% Viscosa ",
+                    "item3": "CUIDADOS ",
+                    "cuidados": "No lavar, no usar lejía, no usar secadora, planchar máximo 110°C, limpieza en seco. " 
+                }
+
+            ]
+        },
+        {
+            "collectionId": 1,
+            "id": 4,
+            "name": "Abrigo fluido largo",
+            "price": "S/129",
+            "image": [
+                {
+                    "path": "assets/img/Producto/Abrigo fluido largo.jpg"
+                },
+                {
+                    "item": "Abrigo fluido largo",
+                    "description": "Trench largo fluido cruzado con cierre de botones, cuello solapa, de manga caida y larga. Bolsillos delanteros de vivo. ", 
+                    "item2": "MATERIALES",
+                    "materiales": "EXTERIOR: 59% Lana, 41% Algodón.FORRO: 100% Viscosa ",
+                    "item3": "CUIDADOS ",
+                    "cuidados": "No lavar, no usar lejía, no usar secadora, planchar máximo 110°C, limpieza en seco. " 
+                }
+            ]
+        },
+        {
+            "collectionId": 1,
+            "id": 5,
+            "name": "Abrigo punto perchado",
+            "price": "S/129",
+            "image": [
+                {
+                    "path": "assets/img/Producto/Abrigo punto perchado.jpg"    
+                },
+                {
+                    "item": "Abrigo punto perchado",
+                    "description": "Trench largo fluido cruzado con cierre de botones, cuello solapa, de manga caida y larga. Bolsillos delanteros de vivo. ", 
+                    "item2": "MATERIALES",
+                    "materiales": "EXTERIOR: 59% Lana, 41% Algodón.FORRO: 100% Viscosa ",
+                    "item3": "CUIDADOS ",
+                    "cuidados": "No lavar, no usar lejía, no usar secadora, planchar máximo 110°C, limpieza en seco. " 
+                }
+            ]
+        },
+        {
+            "collectionId": 1,
+            "id": 6,
+            "name": "Abrigo acolchado",
+            "price": "S/129",
+            "image": [
+                {
+                    "path": "assets/img/Producto/Abrigo acolchado.jpg"
+                },
+                {
+                    "item": "Abrigo acolchado",
+                    "description": "Trench largo fluido cruzado con cierre de botones, cuello solapa, de manga caida y larga. Bolsillos delanteros de vivo. ", 
+                    "item2": "MATERIALES",
+                    "materiales": "EXTERIOR: 59% Lana, 41% Algodón.FORRO: 100% Viscosa ",
+                    "item3": "CUIDADOS ",
+                    "cuidados": "No lavar, no usar lejía, no usar secadora, planchar máximo 110°C, limpieza en seco. " 
+                }
+            ]
+        },
+        {
+            "collectionId": 2,
+            "id": 7,
+            "name": "Cazadora biker",
+            "price": "S/109",
+            "image": [
+                {
+                    "path": "assets/img/Producto/Cazadora biker.jpg"
+                },
+                {
+                    "item": "Cazadora biker",
+                    "description": "Cazadora de cuello y solapa con manga larga. Bolsillos delanteros con cremallera metalica. Detalle de trabillas en hombros. Cinturón con hebilla. Cierre frontal con cremallera metálica.", 
+                    "item2": "MATERIALES",
+                    "materiales": "EXTERIOR: 59% Poliester, 41% Algodón.FORRO: 100% Viscosa ",
+                    "item3": "CUIDADOS ",
+                    "cuidados": "No lavar, no usar lejía, no usar secadora, planchar máximo 110°C, limpieza en seco. " 
+                }
+            ]
+        },
+        {
+            "collectionId": 2,
+            "id": 8,
+            "name": "Cazadora biker efecto ante",
+            "price": "S/109",
+            "image": [
+                {
+                    "path": "assets/img/Producto/Cazadora biker efecto ante.jpg"
+                },
+                {
+                    "item": "Cazadora biker efecto ante",
+                    "description": "Cazadora de cuello y solapa con manga larga. Bolsillos delanteros con cremallera metalica. Detalle de trabillas en hombros. Cinturón con hebilla. Cierre frontal con cremallera metálica.", 
+                    "item2": "MATERIALES",
+                    "materiales": "EXTERIOR: 59% Poliester, 41% Algodón.FORRO: 100% Viscosa ",
+                    "item3": "CUIDADOS ",
+                    "cuidados": "No lavar, no usar lejía, no usar secadora, planchar máximo 110°C, limpieza en seco. " 
+                }
+            ]
+        },
+        {
+            "collectionId": 2,
+            "id": 9,
+            "name": "Cazadora biker efecto piel",
+            "price": "S/109",
+            "image": [
+                {
+                    "path": "assets/img/Producto/Cazadora biker efecto piel.jpg"
+                },
+                {
+                    "item": "Cazadora biker efecto piel",
+                    "description": "Cazadora de cuello y solapa con manga larga. Bolsillos delanteros con cremallera metalica. Detalle de trabillas en hombros. Cinturón con hebilla. Cierre frontal con cremallera metálica.", 
+                    "item2": "MATERIALES",
+                    "materiales": "EXTERIOR: 59% Poliester, 41% Algodón.FORRO: 100% Viscosa ",
+                    "item3": "CUIDADOS ",
+                    "cuidados": "No lavar, no usar lejía, no usar secadora, planchar máximo 110°C, limpieza en seco. " 
+                }
+            ]
+        },
+        {
+            "collectionId": 2,
+            "id": 10,
+            "name": "Cazadora acolchada cuello alto",
+            "price": "S/109",
+            "image": [
+                {
+                    "path": "assets/img/Producto/Cazadora acolchada cuello alto.jpg"
+                },
+                {
+                    "item": "Cazadora acolchada cuello alto",
+                    "description": "Cazadora de cuello y solapa con manga larga. Bolsillos delanteros con cremallera metalica. Detalle de trabillas en hombros. Cinturón con hebilla. Cierre frontal con cremallera metálica.", 
+                    "item2": "MATERIALES",
+                    "materiales": "EXTERIOR: 59% Poliester, 41% Algodón.FORRO: 100% Viscosa ",
+                    "item3": "CUIDADOS ",
+                    "cuidados": "No lavar, no usar lejía, no usar secadora, planchar máximo 110°C, limpieza en seco. " 
+                }
+            ]
+        },
+        {
+            "collectionId": 2,
+            "id": 11,
+            "name": "Cazadora bomber",
+            "price": "S/109",
+            "image": [
+                {
+                    "path": "assets/img/Producto/Cazadora bomber.jpg"
+                },
+                {
+                    "item": "Cazadora bomber",
+                    "description": "Cazadora de cuello y solapa con manga larga. Bolsillos delanteros con cremallera metalica. Detalle de trabillas en hombros. Cinturón con hebilla. Cierre frontal con cremallera metálica.", 
+                    "item2": "MATERIALES",
+                    "materiales": "EXTERIOR: 59% Poliester, 41% Algodón.FORRO: 100% Viscosa ",
+                    "item3": "CUIDADOS ",
+                    "cuidados": "No lavar, no usar lejía, no usar secadora, planchar máximo 110°C, limpieza en seco. " 
+                }
+            ]
+        },
+        {
+            "collectionId": 2,
+            "id": 12,
+            "name": "Cazadora sobrecamisa crop sarga",
+            "price": "S/109",
+            "image": [
+                {
+                    "path": "assets/img/Producto/Cazadora sobrecamisa crop sarga.jpg"
+                },
+                {
+                    "item": "Cazadora sobrecamisa crop sarga",
+                    "description": "Cazadora de cuello y solapa con manga larga. Bolsillos delanteros con cremallera metalica. Detalle de trabillas en hombros. Cinturón con hebilla. Cierre frontal con cremallera metálica.", 
+                    "item2": "MATERIALES",
+                    "materiales": "EXTERIOR: 59% Poliester, 41% Algodón.FORRO: 100% Viscosa ",
+                    "item3": "CUIDADOS ",
+                    "cuidados": "No lavar, no usar lejía, no usar secadora, planchar máximo 110°C, limpieza en seco. " 
+                }
+            ]
+        },
+        {
+            "collectionId": 3,
+            "id": 13,
+            "name": "Camiseta corta cordones",
+            "price": "S/39",
+            "image": [
+                {
+                    "path": "assets/img/Producto/Camiseta corta cordones.jpg"
+                },
+                {
+                    "item": "Camiseta corta cordones",
+                    "description": "Camiseta de cuello redondo y manga larga. Detalle cordones para atar en cintura.", 
+                    "item2": "MATERIALES",
+                    "materiales": "EXTERIOR: 95% Algodón, 5% Elastano ",
+                    "item3": "CUIDADOS ",
+                    "cuidados": "No lavar, no usar lejía, no usar secadora, planchar máximo 110°C, limpieza en seco. " 
+                }
+            ]
+        },
+        {
+            "collectionId": 3,
+            "id": 14,
+            "name": "Camiseta Mickey",
+            "price": "S/39",
+            "image": [
+                {
+                    "path": "assets/img/Producto/Camiseta Mickey.jpg"
+                },
+                {
+                    "item": "Camiseta Mickey",
+                    "description": "Camiseta de cuello redondo y manga larga. Detalle cordones para atar en cintura.", 
+                    "item2": "MATERIALES",
+                    "materiales": "EXTERIOR: 95% Algodón, 5% Elastano ",
+                    "item3": "CUIDADOS ",
+                    "cuidados": "No lavar, no usar lejía, no usar secadora, planchar máximo 110°C, limpieza en seco. " 
+                }
+            ]
+        },
+        {
+            "collectionId": 3,
+            "id": 15,
+            "name": "Camiseta asimétrica",
+            "price": "S/39",
+            "image": [
+                {
+                    "path": "assets/img/Producto/Camiseta asimétrica.jpg"
+                },
+                {
+                    "item": "Camiseta asimétrica",
+                    "description": "Camiseta de cuello redondo y manga larga. Detalle cordones para atar en cintura.", 
+                    "item2": "MATERIALES",
+                    "materiales": "EXTERIOR: 95% Algodón, 5% Elastano ",
+                    "item3": "CUIDADOS ",
+                    "cuidados": "No lavar, no usar lejía, no usar secadora, planchar máximo 110°C, limpieza en seco. " 
+                }
+            ]
+        },
+        {
+            "collectionId": 3,
+            "id": 16,
+            "name": "Camiseta Disney foil",
+            "price": "S/39",
+            "image": [
+                {
+                    "path": "assets/img/Producto/Camiseta Disney foil.jpg"
+                },
+                {
+                    "item": "Camiseta Disney foil",
+                    "description": "Camiseta de cuello redondo y manga larga. Detalle cordones para atar en cintura.", 
+                    "item2": "MATERIALES",
+                    "materiales": "EXTERIOR: 95% Algodón, 5% Elastano ",
+                    "item3": "CUIDADOS ",
+                    "cuidados": "No lavar, no usar lejía, no usar secadora, planchar máximo 110°C, limpieza en seco. " 
+                }
+            ]
+        },
+        {
+            "collectionId": 3,
+            "id": 17,
+            "name": "Camiseta cut out",
+            "price": "S/39",
+            "image": [
+                {
+                    "path": "assets/img/Producto/Camiseta cut out.jpg"
+                },
+                {
+                    "item": "Camiseta cut out",
+                    "description": "Camiseta de cuello redondo y manga larga. Detalle cordones para atar en cintura.", 
+                    "item2": "MATERIALES",
+                    "materiales": "EXTERIOR: 95% Algodón, 5% Elastano ",
+                    "item3": "CUIDADOS ",
+                    "cuidados": "No lavar, no usar lejía, no usar secadora, planchar máximo 110°C, limpieza en seco. " 
+                }
+            ]
+        },
+        {
+            "collectionId": 3,
+            "id": 18,
+            "name": "Camiseta body halter poliamida",
+            "price": "S/39",
+            "image": [
+                {
+                    "path": "assets/img/Producto/Camiseta body halter poliamida.jpg"
+                },
+                {
+                    "item": "Camiseta body halter poliamida",
+                    "description": "Camiseta de cuello redondo y manga larga. Detalle cordones para atar en cintura.", 
+                    "item2": "MATERIALES",
+                    "materiales": "EXTERIOR: 95% Algodón, 5% Elastano ",
+                    "item3": "CUIDADOS ",
+                    "cuidados": "No lavar, no usar lejía, no usar secadora, planchar máximo 110°C, limpieza en seco. " 
+                }
+            ]
+        },
+        {
+            "collectionId": 4,
+            "id": 19,
+            "name": "Pantalón pinzas",
+            "price": "S/89",
+            "image": [
+                {
+                    "path": "assets/img/Producto/Pantalón pinzas.jpg"
+                },
+                {
+                    "item": "Pantalón pinzas",
+                    "description": "Pantalón de tiro alto y pernera ajustada. Cierre con cremallera..", 
+                    "item2": "MATERIALES",
+                    "materiales": "EXTERIOR: 85% Poliester, 15% Elastano ",
+                    "item3": "CUIDADOS ",
+                    "cuidados": "No lavar, no usar lejía, no usar secadora, planchar máximo 110°C, limpieza en seco. " 
+                }
+            ]
+        },
+        {
+            "collectionId": 4,
+            "id": 20,
+            "name": "Pantalón Jeans baggy sarga",
+            "price": "S/89",
+            "image": [
+                {
+                    "path": "assets/img/ProductoPantalón Jeans baggy sarga.jpg"
+                },
+                {
+                    "item": "Pantalón jeans baggy sarga",
+                    "description": "Pantalón de tiro alto y pernera ajustada. Cierre con cremallera..", 
+                    "item2": "MATERIALES",
+                    "materiales": "EXTERIOR: 85% Poliester, 15% Elastano ",
+                    "item3": "CUIDADOS ",
+                    "cuidados": "No lavar, no usar lejía, no usar secadora, planchar máximo 110°C, limpieza en seco. " 
+                }
+            ]
+        },
+        {
+            "collectionId": 4,
+            "id": 21,
+            "name": "Pantalón Jeans skinny high waist",
+            "price": "S/89",
+            "image": [
+                {
+                    "path": "assets/img/Producto/Pantalón Jeans skinny high waist.jpg"
+                },
+                {
+                    "item": "Pantalón jeans skinny high waist",
+                    "description": "Pantalón de tiro alto y pernera ajustada. Cierre con cremallera..", 
+                    "item2": "MATERIALES",
+                    "materiales": "EXTERIOR: 85% Poliester, 15% Elastano ",
+                    "item3": "CUIDADOS ",
+                    "cuidados": "No lavar, no usar lejía, no usar secadora, planchar máximo 110°C, limpieza en seco. " 
+                }
+            ]
+        },
+        {
+            "collectionId": 4,
+            "id": 22,
+            "name": "Pantalón Legging polipiel",
+            "price": "S/89",
+            "image": [
+                {
+                    "path": "assets/img/Producto/Pantalón Legging polipiel.jpg"
+                },
+                {
+                    "item": "Pantalón legging polipiel",
+                    "description": "Pantalón de tiro alto y pernera ajustada. Cierre con cremallera..", 
+                    "item2": "MATERIALES",
+                    "materiales": "EXTERIOR: 85% Poliester, 15% Elastano ",
+                    "item3": "CUIDADOS ",
+                    "cuidados": "No lavar, no usar lejía, no usar secadora, planchar máximo 110°C, limpieza en seco. " 
+                }
+            ]
+        },
+        {
+            "collectionId": 4,
+            "id": 23,
+            "name": "Pantalón flare slit",
+            "price": "S/89",
+            "image": [
+                {
+                    "path": "assets/img/Producto/Pantalón flare slit.jpg"
+                },
+                {
+                    "item": "Pantalón flare slit",
+                    "description": "Pantalón de tiro alto y pernera ajustada. Cierre con cremallera..", 
+                    "item2": "MATERIALES",
+                    "materiales": "EXTERIOR: 85% Poliester, 15% Elastano ",
+                    "item3": "CUIDADOS ",
+                    "cuidados": "No lavar, no usar lejía, no usar secadora, planchar máximo 110°C, limpieza en seco. " 
+                }
+            ]
+        },
+        {
+            "collectionId": 4,
+            "id": 24,
+            "name": "Pantalón sarga seamless",
+            "price": "S/89",
+            "image": [
+                {
+                    "path": "assets/img/Producto/Pantalón sarga seamless.jpg"
+                },
+                {
+                    "item": "Pantalón sarga seamless",
+                    "description": "Pantalón de tiro alto y pernera ajustada. Cierre con cremallera.", 
+                    "item2": "MATERIALES",
+                    "materiales": "EXTERIOR: 85% Poliester, 15% Elastano ",
+                    "item3": "CUIDADOS ",
+                    "cuidados": "No lavar, no usar lejía, no usar secadora, planchar máximo 110°C, limpieza en seco. " 
+                }
+            ]
+        },
+        {
+            "collectionId": 5,
+            "id": 25,
+            "name": "Vestido midi botones",
+            "price": "S/99",
+            "image": [
+                {
+                    "path": "assets/img/Producto/Vestido midi botones.jpg"
+                },
+                {
+                    "item": "Vestido midi botones",
+                    "description": "Vestido midi de cuello redondo y manga corta abullonada. Detalle de abertura en la espalda con botones.", 
+                    "item2": "MATERIALES",
+                    "materiales": "EXTERIOR: 95% Poliester, 5% Elastano. ",
+                    "item3": "CUIDADOS ",
+                    "cuidados": "No lavar, no usar lejía, no usar secadora, planchar máximo 110°C, limpieza en seco. " 
+                }
+            ]
+        },
+        {
+            "collectionId": 5,
+            "id": 26,
+            "name": "Vestido corto gomas",
+            "price": "S/99",
+            "image": [
+                {
+                    "path": "assets/img/Producto/Vestido corto gomas.jpg"
+                },
+                {
+                    "item": "Vestido corto gomas",
+                    "description": "Vestido midi de cuello redondo y manga corta abullonada. Detalle de abertura en la espalda con botones.", 
+                    "item2": "MATERIALES",
+                    "materiales": "EXTERIOR: 95% Poliester, 5% Elastano. ",
+                    "item3": "CUIDADOS ",
+                    "cuidados": "No lavar, no usar lejía, no usar secadora, planchar máximo 110°C, limpieza en seco. " 
+                }
+            ]
+        },
+        {
+            "collectionId": 5,
+            "id": 27,
+            "name": "Vestido Americana",
+            "price": "S/99",
+            "image": [
+                {
+                    "path": "assets/img/Producto/Vestido Americana.jpg"
+                },
+                {
+                    "item": "Vestido americana",
+                    "description": "Vestido midi de cuello redondo y manga corta abullonada. Detalle de abertura en la espalda con botones.", 
+                    "item2": "MATERIALES",
+                    "materiales": "EXTERIOR: 95% Poliester, 5% Elastano. ",
+                    "item3": "CUIDADOS ",
+                    "cuidados": "No lavar, no usar lejía, no usar secadora, planchar máximo 110°C, limpieza en seco. " 
+                }
+            ]
+        },
+        {
+            "collectionId": 5,
+            "id": 28,
+            "name": "Vestido camisero popelín",
+            "price": "S/99",
+            "image": [
+                {
+                    "path": "assets/img/Producto/Vestido camisero popelín.jpg"
+                },
+                {
+                    "item": "Vestido camisero popelín",
+                    "description": "Vestido midi de cuello redondo y manga corta abullonada. Detalle de abertura en la espalda con botones.", 
+                    "item2": "MATERIALES",
+                    "materiales": "EXTERIOR: 95% Poliester, 5% Elastano. ",
+                    "item3": "CUIDADOS ",
+                    "cuidados": "No lavar, no usar lejía, no usar secadora, planchar máximo 110°C, limpieza en seco. " 
+                }
+            ]
+        },
+        {
+            "collectionId": 5,
+            "id": 29,
+            "name": "Vestido corto manga acampanada",
+            "price": "S/99",
+            "image": [
+                {
+                    "path": "assets/img/Producto/Vestido corto manga acampanada.jpg"
+                },
+                {
+                    "item": "Vestido corto manga acampanada",
+                    "description": "Vestido midi de cuello redondo y manga corta abullonada. Detalle de abertura en la espalda con botones.", 
+                    "item2": "MATERIALES",
+                    "materiales": "EXTERIOR: 95% Poliester, 5% Elastano. ",
+                    "item3": "CUIDADOS ",
+                    "cuidados": "No lavar, no usar lejía, no usar secadora, planchar máximo 110°C, limpieza en seco. " 
+                }
+            ]
+        },
+        {
+            "collectionId": 5,
+            "id": 30,
+            "name": "Vestido Mono corto oxford",
+            "price": "S/99",
+            "image": [
+                {
+                    "path": "assets/img/Producto/Vestido Mono corto oxford.jpg"
+                },
+                {
+                    "item": "Vestido mono corto oxford",
+                    "description": "Vestido midi de cuello redondo y manga corta abullonada. Detalle de abertura en la espalda con botones.", 
+                    "item2": "MATERIALES",
+                    "materiales": "EXTERIOR: 95% Poliester, 5% Elastano. ",
+                    "item3": "CUIDADOS ",
+                    "cuidados": "No lavar, no usar lejía, no usar secadora, planchar máximo 110°C, limpieza en seco. " 
+                }
+            ]
+        },
+        {
+            "collectionId": 6,
+            "id": 31,
+            "name": "Bandolera asa cadena",
+            "price": "S/69",
+            "image": [
+                {
+                    "path": "assets/img/Producto/Bandolera asa cadena.jpg"
+                },
+                {
+                    "item": "Bandolera asa cadena ",
+                    "description": "Bolso formato bandolera y detalle de pespunte en el cuerpo. Interior forrado con cierre mediante cremallera. Cierre mediante pieza metálica.", 
+                    "item2": "MATERIALES",
+                    "materiales": "EXTERIOR: 100% Poliuretano ",
+                    "item3": "CUIDADOS ",
+                    "cuidados": "No lavar, no usar lejía, no usar secadora, no planchar, limpieza en seco. " 
+                }
+            ]
+        },
+        {
+            "collectionId": 6,
+            "id": 32,
+            "name": "Mochila cremallera",
+            "price": "S/69",
+            "image": [
+                {
+                    "path": "assets/img/Producto/Mochila cremallera.jpg"
+                },
+                {
+                    "item": "Mochila cremallera",
+                    "description": "Mochila con detalle de pespunte en el cuerpo. Interior forrado con cierre mediante cremallera. Cierre mediante pieza metálica.", 
+                    "item2": "MATERIALES",
+                    "materiales": "EXTERIOR: 100% Poliuretano ",
+                    "item3": "CUIDADOS ",
+                    "cuidados": "No lavar, no usar lejía, no usar secadora, no planchar, limpieza en seco. " 
+                }
+            ]
+        },
+        {
+            "collectionId": 6,
+            "id": 33,
+            "name": "Bandolera cierre",
+            "price": "S/69",
+            "image": [
+                {
+                    "path": "assets/img/Producto/Bandolera cierre.jpg"
+                },
+                {
+                    "item": "Bandolera cierre ",
+                    "description": "Bolso formato bandolera y detalle de pespunte en el cuerpo. Interior forrado con cierre mediante cremallera. Cierre mediante pieza metálica.", 
+                    "item2": "MATERIALES",
+                    "materiales": "EXTERIOR: 100% Poliuretano ",
+                    "item3": "CUIDADOS ",
+                    "cuidados": "No lavar, no usar lejía, no usar secadora, no planchar , limpieza en seco. " 
+                }
+            ]
+        },
+        {
+            "collectionId": 6,
+            "id": 34,
+            "name": "Mini bolso cadena",
+            "price": "S/69",
+            "image": [
+                {
+                    "path": "assets/img/Producto/Mini bolso cadena.jpg"
+                },
+                {
+                    "item": "Mini bolso cadena",
+                    "description": "Bolso formato bandolera y detalle de pespunte en el cuerpo. Interior forrado con cierre mediante cremallera. Cierre mediante pieza metálica.", 
+                    "item2": "MATERIALES",
+                    "materiales": "EXTERIOR: 100% Poliuretano ",
+                    "item3": "CUIDADOS ",
+                    "cuidados": "No lavar, no usar lejía, no usar secadora, no planchar, limpieza en seco. " 
+                }
+            ]
+        },
+        {
+            "collectionId": 6,
+            "id": 35,
+            "name": "Gafas de sol cat eye",
+            "price": "S/59",
+            "image": [
+                {
+                    "path": "assets/img/Producto/Gafas de sol cat eye.jpg"
+                },
+                {
+                    "item": "Gafas de sol cat eye",
+                    "description": "Gafas con montura estilo cat eye combinada a contraste. Incluye funda.", 
+                    "item2": "MATERIALES",
+                    "materiales": "MONTURA: 98% Policarbonato, 2% Cobre. LENTES: 100% Plástico-acrílico ",
+                    "item3": "CUIDADOS ",
+                    "cuidados": "No lavar, no usar lejía, no usar secadora, no planchar , no limpieza en seco. " 
+                }
+            ]
+        },
+        {
+            "collectionId": 6,
+            "id": 36,
+            "name": "Gafas cat eye carey",
+            "price": "S/59",
+            "image": [
+                {
+                    "path": "assets/img/Producto/Gafas cat eye carey.jpg"
+                },
+                {
+                    "item": "Gafas cat eye carey",
+                    "description": "Gafas con montura estilo cat eye combinada a contraste. Incluye funda.", 
+                    "item2": "MATERIALES",
+                    "materiales": "MONTURA: 98% Policarbonato, 2% Cobre. LENTES: 100% Plástico-acrílico ",
+                    "item3": "CUIDADOS ",
+                    "cuidados": "No lavar, no usar lejía, no usar secadora, no planchar , no limpieza en seco. " 
+                }
+            ]
+        }
+    ]
+}

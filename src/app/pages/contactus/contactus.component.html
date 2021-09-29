@@ -1,6 +1,64 @@
-<h3>
-    {{ header }}: {{ description | uppercase }}
-  </h3>
-  <p [style.color]="counterStyleColor">You have <mark
-          class="{{ counterClass }}">{{ numberOfContacts }}</mark>
-    contacts right now.</p>
+<div class="container" style="padding-top: 120px;">
+    <h3>Contactenos</h3>
+    <div class="row">
+        <div class="col-6">
+            <form [formGroup]="contactusForm">
+                <div formGroupName="person">
+                    <div class="form-group">
+                        <input type="text" formControlName="firstname" class="form-control" placeholder="Nombre">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" formControlName="lastname" class="form-control" placeholder="Apellido">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <input type="email" formControlName="email" class="form-control" placeholder="Email">
+                </div>
+                <div class="form-group">
+                    <textarea formControlName="message" class="form-control" rows="3" placeholder="Mensaje"></textarea>
+                </div>
+                <div class="form-group">
+                    <button (click)="__onSubmit()" class="btn btn-outline-primary">Enviar</button>
+                </div>
+                <!--<div>
+                    <p>
+                        Datos del Formulario: {{ contactusForm.value | json }}
+                    </p>
+                    <p>
+                        Validacion Formulario: {{ contactusForm.valid }}
+                    </p>
+                </div>
+                -->
+                <div class="form-row">
+                    <div class="form-group">
+                        <re-captcha 
+                        (resolved)="resolved($event)"
+                        (error)="onError($event)"
+                        errorMode="handled"
+                        siteKey="6LfMj0UcAAAAAPTnWuDysPyBpMBBcnWPABa1FMEk">
+                        </re-captcha>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div class="col-6">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3901.1182603028537!2d-76.96509068507015!3d-12.10405574626472!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105c70ab77498c1%3A0xcce9f50642e7c684!2sUniversidad%20Peruana%20de%20Ciencias%20Aplicadas!5e0!3m2!1ses-419!2spe!4v1629339369407!5m2!1ses-419!2spe" width="500" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+            <div class="row">
+                <div class="col-2">
+                    <b>Direccion: </b>
+                </div>
+                <div class="col-10">
+                    Prolongación Primavera 2390, Lima 15023
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-2">
+                    <b>Telefono: </b>
+                </div>
+                <div class="col-10">
+                    999-111222
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
